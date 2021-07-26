@@ -1,4 +1,4 @@
-package com.hicola.javawebdemo;
+package com.hicola;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
