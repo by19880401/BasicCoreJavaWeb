@@ -1,0 +1,3 @@
+simple-client:
+  ribbon:
+    listOfServers: localhost:8081,localhost:8082
