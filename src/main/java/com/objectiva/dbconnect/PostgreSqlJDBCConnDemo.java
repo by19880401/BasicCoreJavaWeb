@@ -7,8 +7,11 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- * Java通过JDBC连接到PostgreSQL数据库
- * @author willis.bai
+ * @author Willis Bai
+ * @title: PostgreSqlJDBCCreateTableDemo
+ * @projectName BasicCoreJava
+ * @description: Java通过JDBC连接到PostgreSQL数据库
+ * @date 9/27/20215:24 PM
  */
 public class PostgreSqlJDBCConnDemo {
     public static void main(String[] args) {
